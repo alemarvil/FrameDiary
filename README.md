@@ -9,7 +9,19 @@
 
 ## 1. Introducción al problema
 
-- Descripción del problema para poner en contexto el proyecto, incluyendo información sobre los clientes y usuarios, la situación actual, problemas, expectativas, etc. Se valorará la presencia de información multimedia (fotos, gráficos, documentos escaneados, etc.).
+La empresa FrameDiary busca desarrollar el ocio y la cultura, para lograr una gestión de biblioteca de películas. Una de sus actividades principales es hacer que los usuarios, mediante una red social, puedan registrar, valorar y organizar las películas que ven, compartir sus críticas y seguir a otros espectadores.
+
+Sin este proyecto, los usuarios registran ahora mismo sus películas y reseñas sin ningún tipo de organización, ya sea en documentos de texto o en notas, lo que impide actualizar la información automáticamente. Esto supone un problema para los espectadores que quieran saber cuántas películas han visto, consultar qué películas han visto otros usuarios o cuándo se escribió una reseña.
+
+Estos son algunos ejemplos que muestran la necesidad del sistema:
+
+- Un usuario quiere saber qué comentarios han hecho sus amigos sobre las películas que ha visto.
+- Un espectador quiere ver películas similares a las que ya ha visto.
+
+El nuevo sistema debe ser fácil de usar. Debe permitir a los usuarios llevar al día lo que han visto, comentarios y listas de forma detallada, ofreciendo herramientas de interacción social, como seguir a otros usuarios y consultar sus críticas y recomendaciones.
+
+Con este sistema, los usuarios podrán gestionar mejor sus películas de manera más organizada, planificar películas futuras, hacer críticas y consultar las reseñas de otros usuarios.
+
 
 ## 2. Glosario de términos
 
