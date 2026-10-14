@@ -244,6 +244,257 @@ El programa debe recomendar películas en base a la popularidad, la actividad de
 - Se muestra un listado con los usuarios registrados en la aplicación.
 - Un usuario no registrado no aparecerá en el listado.
 
+#### R.F.14. Seguir usuarios
+
+
+**Como** espectador
+
+
+**Quiero** que sea posible dar "follow" a otros usuarios
+
+
+**Para** que sea posible la interacción entre usuarios y que en el "feed" me salgan películas populares entre otros usuarios.
+
+
+**Pruebas de aceptación**
+
+
+- Al seguir a un usuario, en el listado de usuarios seguidos aparece el nuevo usuario.
+- En la lista de seguidores de este usuario aparecerá el nuevo seguidor.
+- Al intentar seguir a un usuario que no existe o a un usuario que ya seguías se lanza un mensaje de error.
+
+
+#### R.F.15. Dejar de seguir usuarios
+
+
+**Como** espectador
+
+
+**Quiero** dejar de seguir usuarios si no me interesan sus reseñas
+
+
+**Para** no ver sus actualizaciones en mi feed.
+
+
+**Pruebas de aceptación**
+
+
+- Al dejar de seguir a un usuario, en el listado de usuarios seguidos dejará de aparecer dicho usuario.
+- En la lista de seguidores de este usuario dejará de aparecer el antiguo seguidor.
+- Al intentar dejar de seguir a un usuario que no existe o a un usuario que no seguías se lanza un mensaje de error.
+
+
+#### R.F.16. Crear "review"
+
+
+**Como** espectador
+
+
+**Quiero** poder dar una valoración en forma de estrellas de entre 0.5 y 5 y poder dejar un comentario
+
+
+**Para** dar mi opinión sobre las películas que voy viendo.
+
+
+**Pruebas de aceptación**
+
+
+- Al crear una "review" se pide un listado de "reviews" de dicha película y aparecerá la nueva.
+- Si se intenta crear una "review" de una película que no existe, se mandará un mensaje de error.
+
+
+#### R.F.17. Modificar "review"
+
+
+**Como** espectador
+
+
+**Quiero** poder modificar la valoración dada a una película o el comentario sobre la obra vista
+
+
+**Para** mantener actualizadas mis reseñas sobre lo que pienso de las películas que voy viendo.
+
+
+**Pruebas de aceptación**
+
+
+- Al modificar una reseña de una película, en el listado de reseñas de dicha película aparecerá la reseña modificada.
+- Al intentar modificar la reseña de una película dejando vacíos los datos se dará un mensaje de error.
+
+
+#### R.F.18. Eliminar "review"
+
+
+**Como** espectador
+
+
+**Quiero** eliminar una "review"
+
+
+**Para** que esta no salga en mi "Diary".
+
+
+**Pruebas de aceptación**
+
+
+- La "review" eliminada aparecerá como eliminada en el listado de reviews de la película.
+- Si se intenta eliminar una "review" de una película a la cual no hemos hecho "review", el sistema mandará un mensaje de error.
+
+
+#### R.F.19. Dar "like" a una "review"
+
+
+**Como** espectador
+
+
+**Quiero** mostrar mi nivel de acuerdo dando "like" a otra "review"
+
+
+**Para** que esta tenga más peso sobre otras reseñas con menos "likes".
+
+
+**Pruebas de aceptación**
+
+
+- Al dar un "like" a una "review", en el listado de usuarios a los que les ha gustado la reseña aparecerá el like que hemos dado.
+- Al intentar dar "like" a una "review" a la que ya le he dado like se mostrará un mensaje de error.
+
+
+#### R.F.20. Añadir película a favoritos
+
+
+**Como** espectador
+
+
+**Quiero** tener una lista de películas favoritas
+
+
+**Para** que estas sean las primeras que salgan en mi perfil.
+
+
+**Pruebas de aceptación**
+
+
+- Al añadir una película a favoritos, se mostrará en nuestro listado de películas favoritas.
+- Al intentar añadir a favoritos una película que ya tengo en favoritos, se mostrará un mensaje de error.
+
+
+#### R.F.21. Eliminar película de favoritos
+
+
+**Como** espectador
+
+
+**Quiero** que las películas que ya no considere favoritas puedan ser eliminadas de la lista
+
+
+**Para** que la información y mis gustos estén actualizados.
+
+
+**Pruebas de aceptación**
+
+
+- Al eliminar una película de favoritos, en el listado de películas favoritas esa película aparecerá como eliminada.
+- Al intentar eliminar de favoritos una película que no teníamos en favoritos, el sistema mostrará un mensaje de error.
+
+
+#### R.F.22. Añadir película a mi "WatchList"
+
+
+**Como** espectador
+
+
+**Quiero** añadir las películas que tenga pensado ver
+
+
+**Para** tenerlas todas organizadas en el mismo sitio a la hora de buscar qué ver en cines o plataformas.
+
+
+**Pruebas de aceptación**
+
+
+- Al añadir una película a mi "WatchList", esta se mostrará en nuestro listado de películas deseadas.
+- Al intentar añadir a mi "WatchList" una película que ya tengo, el sistema envía un mensaje de error.
+
+
+#### R.F.23. Eliminar película de mi "WatchList"
+
+
+**Como** espectador
+
+
+**Quiero** borrar de mi lista las películas que ya he visto o que ya no me interesan
+
+
+**Para** no confundirme y no volver a ver una película que ya conozco.
+
+
+**Pruebas de aceptación**
+
+
+- Al eliminar la película de mi "WatchList", en el listado de películas deseadas no aparecerá dicha película.
+- Al intentar eliminar de mi "WatchList" una película que no estaba en ella, se mostrará en pantalla un mensaje de error.
+
+
+#### R.F.24. Añadir película a mi "Diary"
+
+
+**Como** espectador
+
+
+**Quiero** añadir las películas que haya visto
+
+
+**Para** tenerlas todas organizadas en el mismo sitio a la hora de ver mi historial de visionado.
+
+
+**Pruebas de aceptación**
+
+
+- Al añadir una película a mi "Diary", esta se mostrará en nuestro listado de películas vistas.
+- Al intentar añadir a mi "Diary" una película que ya tengo, el sistema envía un mensaje de error.
+
+
+#### R.F.25. Eliminar película de mi "Diary"
+
+
+**Como** espectador
+
+
+**Quiero** borrar de mi diario películas que haya añadido por error
+
+
+**Para** evitar confusiones y que la lista sea realista.
+
+
+**Pruebas de aceptación**
+
+
+- Al eliminar la película de mi "Diary", en el listado de películas vistas no aparecerá dicha película.
+- Al intentar eliminar de mi "Diary" una película que no estaba en él, se mostrará en pantalla un mensaje de error.
+
+
+#### R.F.26. Recomendaciones automáticas
+
+
+**Como** espectador
+
+
+**Quiero** que el sistema me recomiende películas en base a mis favoritas
+
+
+**Para** tener una mayor variedad de películas que ver.
+
+
+**Pruebas de aceptación**
+
+
+- Una película de Christopher Nolan con respecto a otra película de Christopher Nolan tendrá 10 puntos.
+- Una película de Christopher Nolan con respecto a una película de Greta Gerwig tendrá 0 puntos.
+- Si la película "Interstellar" tiene 8 etiquetas en común con la película "Ad Astra", tendrá 16 puntos.
+- Si "Interstellar" tiene 0 etiquetas en común con "Amélie", tendrá 0 puntos.
+
+
 #### 4.1.1. Requisitos de información
 
 ##### R.I.01. Título requisito de información
