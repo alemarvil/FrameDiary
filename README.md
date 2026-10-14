@@ -39,7 +39,33 @@ Con este sistema, los usuarios podrán gestionar mejor sus películas de manera 
 
 ## 3. Visión general del sistema
 
+La idea del proyecto es la siguiente: promover el cine entre los usuarios mediante recomendaciones y críticas de otros espectadores.
+
 ### 3.1. Requisitos generales
+
+**OBJ-001: Gestión de películas**
+
+El programa debe almacenar las películas añadidas por el administrador en la base de datos y mostrarlas a los usuarios.
+
+**OBJ-002: Gestión de directores**
+
+El programa debe almacenar información del director, en concreto su nombre y apellidos, su fecha de nacimiento y su filmografía.
+
+**OBJ-003: Gestión de usuarios**
+
+El programa debe implementar funciones para la gestión de usuarios y la interacción entre ellos.
+
+**OBJ-004: Gestión del diario**
+
+El programa debe registrar por fecha las películas vistas por los usuarios para lograr una organización precisa del recuento de películas.
+
+**OBJ-005: Gestión de reviews**
+
+El programa debe almacenar y mostrar a los usuarios las reseñas de las películas.
+
+**OBJ-006: Gestión de recomendaciones**
+
+El programa debe recomendar películas en base a la popularidad, la actividad de los usuarios seguidos, los favoritos del usuario y la distancia entre películas, que se calcula conforme a los labels y directores en común.
 
 ### 3.2. Usuarios del sistema
 
