@@ -74,17 +74,175 @@ El programa debe recomendar películas en base a la popularidad, la actividad de
 
 ### 4.1. Requisitos funcionales
 
-#### R.F.01. Título requisito funcional
+#### R.F.01. Dar películas de alta
 
-Como [tipo de usuario]
-quiero [servicio]
-para [razón]
+**Como** administrador
 
-**Prueba de aceptación**
-- Descripción de la primera comprobación a realizar
-- Descripción de la segunda comprobación a realizar
-- Se debe aplicar la regla de negocio R.N.XX.
-- ...
+**Quiero** añadir películas a la base de datos de la aplicación
+
+**Para** que estén disponibles para las diversas funciones de la aplicación.
+
+**Pruebas de aceptación**
+
+- Se registra una película, se pide un listado de películas y aparece la película nueva.
+- Se intenta dar de alta una película con título, director y año de estreno ya registrados y se recibe un mensaje de error.
+
+#### R.F.02. Modificar datos de las películas
+
+**Como** administrador
+
+**Quiero** que los datos de las películas sean modificables
+
+**Para** poder arreglar cualquier error en los datos almacenados de estas.
+
+**Pruebas de aceptación**
+
+- Se modifican los datos de una película, se pide un listado de películas y aparece con los datos modificados.
+- No se permiten modificaciones que dejen sin valor algún dato.
+
+#### R.F.03. Eliminar películas de la base de datos
+
+**Como** administrador
+
+**Quiero** poder eliminar de la aplicación películas que hayan sido registradas por error y/o no existan
+
+**Para** que la aplicación muestre películas reales que la gente pueda ver y no sea difícil de usar.
+
+**Pruebas de aceptación**
+
+- Se elimina una película, se pide un listado de películas y aparece la película como eliminada.
+- No se puede eliminar una película no existente.
+
+#### R.F.04. Consultar el listado de películas
+
+**Como** espectador
+
+**Quiero** ser capaz de consultar el listado de películas de la aplicación
+
+**Para** ver los detalles y las "reviews" que contenga esa película.
+
+**Pruebas de aceptación**
+
+- Se muestra un listado con las películas registradas en el sistema.
+- En caso de buscar una película que no exista, no aparecerá en el listado.
+
+#### R.F.05. Dar directores de alta
+
+**Como** administrador
+
+**Quiero** dar directores de alta
+
+**Para** añadir sus películas a la base de datos y que esté disponible una biografía de estos y su filmografía.
+
+**Pruebas de aceptación**
+
+- Al registrar un nuevo director se muestra un listado con los directores y aparece el nuevo director.
+- Al intentar registrar un nuevo director que ya está registrado se crea un mensaje de error.
+
+#### R.F.06. Editar directores
+
+**Como** administrador
+
+**Quiero** modificar datos de los directores
+
+**Para** mantener la información actualizada.
+
+**Pruebas de aceptación**
+
+- Al modificar los datos de un director, en el listado aparecerá el director con los nuevos datos.
+- Al intentar modificar los datos de un director y dejar en blanco alguno de ellos, el sistema mandará un mensaje de error.
+
+#### R.F.07. Eliminar directores
+
+**Como** administrador
+
+**Quiero** poder dar de baja directores en la aplicación
+
+**Para** asegurarme de que ningún director es dado de alta por error.
+
+**Pruebas de aceptación**
+
+- Al eliminar un director, en el listado de directores aparecerá dicho director como eliminado.
+- Si se intenta eliminar un director que no existe, el sistema mandará un mensaje de error.
+
+#### R.F.08. Consultar directores
+
+**Como** usuario
+
+**Quiero** ver el listado de directores registrados en la aplicación
+
+**Para** ver la filmografía de cada uno.
+
+**Pruebas de aceptación**
+
+- Se mostrará un listado con los datos de cada director.
+- En caso de querer buscar un director que no exista, no aparecerá en el listado.
+
+#### R.F.09. Asignar película a director
+
+**Como** administrador
+
+**Quiero** asignar a un director las películas que se registran en la aplicación
+
+**Para** que la película quede guardada entre las obras de este director.
+
+**Pruebas de aceptación**
+
+- Se mostrará un listado con la filmografía del director y aparecerá la nueva película asignada.
+- En caso de intentar asignar a una película un director que no existe se mostrará un mensaje de error.
+- En caso de intentar asignar una película que no existe a un director se mostrará un mensaje de error.
+
+#### R.F.10. Creación de usuarios
+
+**Como** espectador
+
+**Quiero** poder darme de alta y crear una cuenta en la aplicación
+
+**Para** contribuir a la comunidad cinéfila y poder dar "reviews" de las películas que veo.
+
+**Pruebas de aceptación**
+
+- Se registra un nuevo usuario, se pide un listado de espectadores y aparece el nuevo espectador.
+- Al registrarse en la aplicación con un correo electrónico que ya está en uso, se mostrará un mensaje de error.
+
+#### R.F.11. Modificar datos de usuario
+
+**Como** espectador
+
+**Quiero** modificar los datos de mi perfil
+
+**Para** mantener actualizada mi información.
+
+**Pruebas de aceptación**
+
+- Se modifican los datos de un usuario, se pide un listado de usuarios y aparece el usuario con los datos modificados.
+- La modificación no será registrada si se deja algún campo obligatorio vacío.
+
+#### R.F.12. Eliminar usuario
+
+**Como** espectador
+
+**Quiero** poder darme de baja en la aplicación cuando ya no me interese
+
+**Para** que mis datos personales no se guarden en la aplicación.
+
+**Pruebas de aceptación**
+
+- Cuando se da de baja un espectador, se pide un listado de usuarios y aparece como eliminado.
+- Si intento eliminar una cuenta que no existe, se mostrará un mensaje de error.
+
+#### R.F.13. Consultar usuarios
+
+**Como** espectador
+
+**Quiero** tener disponible un listado con los usuarios registrados
+
+**Para** ver sus perfiles y su actividad de visionado.
+
+**Pruebas de aceptación**
+
+- Se muestra un listado con los usuarios registrados en la aplicación.
+- Un usuario no registrado no aparecerá en el listado.
 
 #### 4.1.1. Requisitos de información
 
