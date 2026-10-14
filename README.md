@@ -25,7 +25,17 @@ Con este sistema, los usuarios podrán gestionar mejor sus películas de manera 
 
 ## 2. Glosario de términos
 
-- Términos específicos del dominio del problema, ordenados alfabéticamente. Se valorará la presencia de información multimedia.
+
+| **TÉRMINO** | **DESCRIPCIÓN** |
+|---|---|
+| **Diary** | Histórico donde se registran las películas vistas de forma cronológica (como un diario personal). |
+| **Review** | Opinión o evaluación personal que un usuario deja sobre una película, generalmente acompañada de una puntuación. |
+| **WatchList** | Permite organizar las películas pendientes de ver. |
+| **Like** | Es una función en redes sociales que permite a los usuarios expresar aprobación, interés o apoyo por un contenido. |
+| **Label** | Etiqueta asignada a un dato almacenado en un repositorio (por ejemplo, género, tema o idioma original de una película). |
+| **Follower** | Usuario que tiene la posibilidad de ver tu actividad y tus reviews. |
+| **Recomendación** | Sugerencias basadas en lo popular de esta semana, las novedades de tus seguidos y los gustos del usuario. |
+
 
 ## 3. Visión general del sistema
 
