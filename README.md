@@ -68,7 +68,8 @@ El programa debe almacenar y mostrar a los usuarios las reseñas de las películ
 El programa debe recomendar películas en base a la popularidad, la actividad de los usuarios seguidos, los favoritos del usuario y la distancia entre películas, que se calcula conforme a los labels y directores en común.
 
 ### 3.2. Usuarios del sistema
-
+- **Espectador:** persona que utiliza la app para registrar las películas que ha visto, quiere ver o está viendo. Puede dejar reseñas, calificaciones y comentarios. Sigue a otros espectadores con gustos similares.
+- **Administrador:** persona que utiliza la app para gestionar las películas en la base de datos.
 ## 4. Catálogo de requisitos
 
 ### 4.1. Requisitos funcionales
