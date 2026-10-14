@@ -1,11 +1,11 @@
-# Título Proyecto
+# FrameDiary
 
-## Miembros del grupo LX-XXX-X (sustituir)
+## Miembros del grupo L1-DFAM-10
 
-1. Apellidos, Nombre
-1. Apellidos, Nombre
-1. Apellidos, Nombre
-1. Apellidos, Nombre
+1. Arias Jiménez, Paula
+2. Márquez Villalba, Alejandro
+3. Parraga Delgado, Hugo
+
 
 ## 1. Introducción al problema
 
