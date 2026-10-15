@@ -497,31 +497,191 @@ El programa debe recomendar películas en base a la popularidad, la actividad de
 
 #### 4.1.1. Requisitos de información
 
-##### R.I.01. Título requisito de información
 
-Como [tipo de usuario]
-quiero [servicio]
-para [razón]
+#### R.I.01. Datos de usuario
 
-**Prueba de aceptación**
-- Descripción de la primera comprobación a realizar
-- Descripción de la segunda comprobación a realizar
-- ...
+
+El sistema almacena los datos de los distintos usuarios para gestionar la aplicación:
+
+
+- Correo electrónico
+- Contraseña
+- Nombre
+- Foto de perfil
+- Biografía
+- "WatchList"
+- "Diary": una lista que mostrará las películas que el usuario ha registrado como vistas
+- Lista de favoritos
+- Seguidores y seguidos
+
+
+**Pruebas de aceptación:**
+
+
+- Se registra un usuario nuevo, se pide un listado de usuarios y aparece el usuario nuevo.
+- Se modifican los datos de usuario, se pide un listado de usuarios y aparece el usuario con los datos modificados.
+- Se elimina un usuario, se pide un listado de usuarios y aparece el usuario como eliminado.
+- Se intenta registrar un usuario con un correo electrónico ya registrado y se recibe un mensaje de error.
+- No se permiten registros ni modificaciones que dejen sin valor los datos de nombre, correo electrónico o contraseña.
+
+
+#### R.I.02. Datos de películas
+
+
+Guardamos los siguientes datos de las películas:
+
+
+- Título
+- Director
+- Póster
+- Sinopsis
+- "Labels" (géneros y temas)
+- Duración (en minutos)
+- Idioma original (como label)
+- Fecha de estreno
+
+
+**Pruebas de aceptación:**
+
+
+- Se registra una película nueva, se pide un listado de películas y aparece la película nueva.
+- Se modifican los datos de la película, se pide un listado de películas y aparece la película con los datos modificados.
+- Se elimina una película, se pide un listado de películas y aparece la película como eliminada.
+- Se intenta registrar una película con el mismo título, director y año de estreno que otra ya registrada y se recibe un mensaje de error.
+- No se permiten registros ni modificaciones que dejen sin valor algún dato.
+
+
+#### R.I.03. Datos de director
+
+
+El sistema almacena de cada director:
+
+
+- Nombre
+- Foto
+- Breve biografía
+- Fecha de nacimiento
+- Su filmografía
+
+
+**Pruebas de aceptación:**
+
+
+- Se registra un director nuevo, se pide un listado de directores y aparece el director nuevo.
+- Se modifican los datos del director, se pide un listado de directores y aparece el director con los datos modificados.
+- Se elimina un director, se pide un listado de directores y aparece el director como eliminado.
+- Se intenta registrar un director ya registrado y se recibe un mensaje de error.
+- No se permiten registros ni modificaciones que dejen sin valor algún dato.
+
+
+#### R.I.04. Datos de "reviews"
+
+
+De cada reseña guardamos:
+
+
+- Película
+- Usuario
+- Puntuación
+- Comentario
+- Fecha de publicación
+
+
+**Pruebas de aceptación:**
+
+
+- Se registra una reseña nueva, se pide un listado de reseñas y aparece la reseña nueva.
+- Se modifican los datos de la reseña, se pide un listado de reseñas y aparece la reseña con los datos modificados.
+- Se elimina una reseña, se pide un listado de reseñas y aparece la reseña como eliminada.
+- Se intenta registrar una reseña ya registrada y se recibe un mensaje de error.
+- No se permiten registros ni modificaciones que dejen sin valor algún dato.
+
 
 #### 4.1.2. Reglas de negocio
 
-##### R.N.01. Título regla negocio
 
-Descripción de la regla de negocio.
+#### R.N.01. Restricción de auto-seguimiento
 
-### 4.2. Mapa de historias de usuario (opcional)
 
-### 4.3. Requisitos no funcionales (opcional)
+Un usuario no puede seguirse a sí mismo.
 
-**R.N.F. 01. Título requisito no funcional**
-Como [tipo de usuario]
-quiero [servicio]
-para [razón]
+
+#### R.N.02. Validación de puntuación de la review
+
+
+El valor de la puntuación debe estar entre 0.5 y 5 estrellas.
+
+
+#### R.N.03. Restricción del "like"
+
+
+No se puede dar "like" a una "review" más de una vez.
+
+
+#### R.N.04. Solo se puede hacer una "review" de una película que esté registrada en el "Diary"
+
+
+Para poder hacerle una reseña a la película, es necesario haberla visto primero.
+
+
+#### R.N.05. Una película solo puede tener asociados 8 labels como máximo
+
+
+Por facilidad para el espectador, para tener de una forma más visible de qué va dicha película.
+
+
+#### R.N.06. Cálculo de distancia entre películas
+
+
+La distancia entre películas será calculada en base a 10 puntos si coincide el director (si tenemos 3 películas del mismo director, nos sumaría 30 puntos) y 2 puntos por cada etiqueta que tenga en común con las películas de la lista de favoritos. Se mostrarán las 10 películas que más puntos tengan con respecto a los favoritos del usuario.
+
+
+#### 4.2. Mapa de historias de usuario (opcional)
+
+
+#### 4.3. Requisitos no funcionales (opcional)
+
+
+#### R.N.F.01. Usabilidad
+
+
+La aplicación debe ser fácil de usar para que los usuarios puedan utilizarla de forma intuitiva.
+
+
+#### R.N.F.02. Rendimiento
+
+
+Se espera que la aplicación funcione de forma fluida y que los tiempos de espera sean mínimos.
+
+
+#### R.N.F.03. Seguridad
+
+
+Se garantiza la seguridad y protección de los datos de los usuarios.
+
+
+#### R.N.F.04. Portabilidad
+
+
+El sistema estará disponible para teléfonos y tablets, y habrá una opción web para usar en ordenadores y portátiles.
+
+
+#### R.N.F.05. Escalabilidad
+
+
+La aplicación soportará grandes aumentos y descensos de usuarios.
+
+
+#### R.N.F.06. Mantenibilidad
+
+
+El código debe ser claro y abierto para facilitar la sostenibilidad de la aplicación.
+
+
+#### R.N.F.07. Datos en la nube
+
+
+Los datos se guardarán en la nube para ser accesibles con facilidad desde distintos dispositivos.
 
 -- fin entregable 1 --
 
