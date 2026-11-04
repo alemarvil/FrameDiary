@@ -1,0 +1,1271 @@
+<mxfile host="app.diagrams.net" pages="4">
+  <diagram id="e1" name="Escenario 1 - General (válido)">
+    <mxGraphModel dx="2298" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="carlos" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Espectador: carlos" vertex="1">
+          <mxGeometry height="156" width="260" as="geometry" />
+        </mxCell>
+        <mxCell id="carlos-a0" parent="carlos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="correo: carlos.ruiz@gmail.com" vertex="1">
+          <mxGeometry height="26" width="260" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="carlos-a1" parent="carlos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="contraseña: CineCarlos24" vertex="1">
+          <mxGeometry height="26" width="260" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="carlos-a2" parent="carlos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="nombre: Carlos Ruiz" vertex="1">
+          <mxGeometry height="26" width="260" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="carlos-a3" parent="carlos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="biografía: &quot;Fan de la ciencia ficción&quot;" vertex="1">
+          <mxGeometry height="26" width="260" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="carlos-a4" parent="carlos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="fotoPerfil: perfiles/carlos.jpg" vertex="1">
+          <mxGeometry height="26" width="260" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ana" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Espectador: ana" vertex="1">
+          <mxGeometry height="104" width="260" x="900" as="geometry" />
+        </mxCell>
+        <mxCell id="ana-a0" parent="ana" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="correo: ana.lopez@gmail.com" vertex="1">
+          <mxGeometry height="26" width="260" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ana-a1" parent="ana" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="contraseña: Palomitas#9" vertex="1">
+          <mxGeometry height="26" width="260" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="ana-a2" parent="ana" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="nombre: Ana López" vertex="1">
+          <mxGeometry height="26" width="260" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="admin1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Administrador: admin1" vertex="1">
+          <mxGeometry height="104" width="230" x="520" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="admin1-a0" parent="admin1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="correo: admin@framediary.com" vertex="1">
+          <mxGeometry height="26" width="230" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="admin1-a1" parent="admin1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="contraseña: Adm1nFD2025" vertex="1">
+          <mxGeometry height="26" width="230" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="admin1-a2" parent="admin1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="nombre: Lucía Romero" vertex="1">
+          <mxGeometry height="26" width="230" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-l-2" edge="1" parent="1" source="carlos" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=1;exitY=0.2;exitDx=0;exitDy=0;entryX=0;entryY=0.3;entryDx=0;entryDy=0;" target="ana" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-el-3" connectable="0" parent="e1-l-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" value="sigue" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1-l-6" edge="1" parent="1" source="ana" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0;exitY=0.72;exitDx=0;exitDy=0;entryX=1;entryY=0.48;entryDx=0;entryDy=0;" target="carlos" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-el-7" connectable="0" parent="e1-l-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" value="sigue &amp;gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="interstellar" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Película: interstellar" vertex="1">
+          <mxGeometry height="156" width="260" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="interstellar-a0" parent="interstellar" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="titulo: Interstellar" vertex="1">
+          <mxGeometry height="26" width="260" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="interstellar-a1" parent="interstellar" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="póster: posters/interstellar.jpg" vertex="1">
+          <mxGeometry height="26" width="260" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="interstellar-a2" parent="interstellar" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="sinopsis: &quot;Viaje por un agujero de gusano&quot;" vertex="1">
+          <mxGeometry height="26" width="260" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="interstellar-a3" parent="interstellar" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="duracion: 169" vertex="1">
+          <mxGeometry height="26" width="260" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="interstellar-a4" parent="interstellar" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="fechaEstreno: 07/11/2014" vertex="1">
+          <mxGeometry height="26" width="260" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="oppenheimer" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Película: oppenheimer" vertex="1">
+          <mxGeometry height="156" width="260" x="450" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="oppenheimer-a0" parent="oppenheimer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="titulo: Oppenheimer" vertex="1">
+          <mxGeometry height="26" width="260" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oppenheimer-a1" parent="oppenheimer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="póster: posters/oppenheimer.jpg" vertex="1">
+          <mxGeometry height="26" width="260" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="oppenheimer-a2" parent="oppenheimer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="sinopsis: &quot;Vida del físico J. R. Oppenheimer&quot;" vertex="1">
+          <mxGeometry height="26" width="260" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="oppenheimer-a3" parent="oppenheimer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="duracion: 180" vertex="1">
+          <mxGeometry height="26" width="260" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="oppenheimer-a4" parent="oppenheimer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="fechaEstreno: 21/07/2023" vertex="1">
+          <mxGeometry height="26" width="260" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="barbie" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Película: barbie" vertex="1">
+          <mxGeometry height="156" width="260" x="900" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="barbie-a0" parent="barbie" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="titulo: Barbie" vertex="1">
+          <mxGeometry height="26" width="260" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="barbie-a1" parent="barbie" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="póster: posters/barbie.jpg" vertex="1">
+          <mxGeometry height="26" width="260" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="barbie-a2" parent="barbie" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="sinopsis: &quot;Barbie descubre el mundo real&quot;" vertex="1">
+          <mxGeometry height="26" width="260" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="barbie-a3" parent="barbie" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="duracion: 114" vertex="1">
+          <mxGeometry height="26" width="260" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="barbie-a4" parent="barbie" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="fechaEstreno: 21/07/2023" vertex="1">
+          <mxGeometry height="26" width="260" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="nolan" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Director: nolan" vertex="1">
+          <mxGeometry height="156" width="260" x="-420" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="nolan-a0" parent="nolan" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="nombre: Christopher" vertex="1">
+          <mxGeometry height="26" width="260" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nolan-a1" parent="nolan" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="apellidos: Nolan" vertex="1">
+          <mxGeometry height="26" width="260" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="nolan-a2" parent="nolan" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="foto: fotos/nolan.jpg" vertex="1">
+          <mxGeometry height="26" width="260" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="nolan-a3" parent="nolan" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="biografía: &quot;Cineasta británico&quot;" vertex="1">
+          <mxGeometry height="26" width="260" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="nolan-a4" parent="nolan" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="fechaNacimiento: 30/07/1970" vertex="1">
+          <mxGeometry height="26" width="260" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gerwig" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Director: gerwig" vertex="1">
+          <mxGeometry height="156" width="260" x="1340" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="gerwig-a0" parent="gerwig" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="nombre: Greta" vertex="1">
+          <mxGeometry height="26" width="260" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gerwig-a1" parent="gerwig" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="apellidos: Gerwig" vertex="1">
+          <mxGeometry height="26" width="260" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gerwig-a2" parent="gerwig" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="foto: fotos/gerwig.jpg" vertex="1">
+          <mxGeometry height="26" width="260" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="gerwig-a3" parent="gerwig" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="biografía: &quot;Cineasta estadounidense&quot;" vertex="1">
+          <mxGeometry height="26" width="260" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="gerwig-a4" parent="gerwig" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="fechaNacimiento: 04/08/1983" vertex="1">
+          <mxGeometry height="26" width="260" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-l-10" edge="1" parent="1" source="nolan" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="interstellar" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-el-11" connectable="0" parent="e1-l-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" value="dirige" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1-l-12" edge="1" parent="1" source="gerwig" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="barbie" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-el-13" connectable="0" parent="e1-l-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" value="&amp;lt; dirige" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1-l-14" edge="1" parent="1" source="nolan" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="oppenheimer" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-290" y="1010" />
+              <mxPoint x="580" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1-el-15" connectable="0" parent="e1-l-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" value="dirige" vertex="1">
+          <mxGeometry relative="1" x="-0.3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cienciaFiccion" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Label: cienciaFiccion" vertex="1">
+          <mxGeometry height="52" width="150" x="-170" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="cienciaFiccion-a0" parent="cienciaFiccion" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="nombre: Ciencia ficción" vertex="1">
+          <mxGeometry height="26" width="150" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="drama" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Label: drama" vertex="1">
+          <mxGeometry height="52" width="150" x="60" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="drama-a0" parent="drama" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="nombre: Drama" vertex="1">
+          <mxGeometry height="26" width="150" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="biografia" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Label: biografia" vertex="1">
+          <mxGeometry height="52" width="150" x="640" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="biografia-a0" parent="biografia" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="nombre: Biografía" vertex="1">
+          <mxGeometry height="26" width="150" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="comedia" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Label: comedia" vertex="1">
+          <mxGeometry height="52" width="150" x="1100" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="comedia-a0" parent="comedia" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="nombre: Comedia" vertex="1">
+          <mxGeometry height="26" width="150" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-l-16" edge="1" parent="1" source="interstellar" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.15;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cienciaFiccion" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-l-17" edge="1" parent="1" source="interstellar" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.45;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="drama" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-l-20" edge="1" parent="1" source="oppenheimer" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.85;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="biografia" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-l-22" edge="1" parent="1" source="barbie" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.85;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="comedia" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-l-23" edge="1" parent="1" source="oppenheimer" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.02;exitY=1;exitDx=0;exitDy=0;entryX=0.8;entryY=0;entryDx=0;entryDy=0;" target="drama" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-cont" parent="1" style="text;html=1;align=center;fontSize=11;strokeColor=none;fillColor=none;" value="contiene" vertex="1">
+          <mxGeometry height="20" width="70" x="1090" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-l-24" edge="1" parent="1" source="carlos" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.2;exitY=1;exitDx=0;exitDy=0;entryX=0.2;entryY=0;entryDx=0;entryDy=0;" target="interstellar" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-el-25" connectable="0" parent="e1-l-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" value="valora" vertex="1">
+          <mxGeometry relative="1" x="-0.6" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1-l-26" edge="1" parent="1" source="carlos" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="interstellar" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-el-27" connectable="0" parent="e1-l-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" value="esFavorita ^" vertex="1">
+          <mxGeometry relative="1" x="-0.2" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1-l-29" edge="1" parent="1" source="carlos" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.8;exitY=1;exitDx=0;exitDy=0;entryX=0.8;entryY=0;entryDx=0;entryDy=0;" target="interstellar" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-el-30" connectable="0" parent="e1-l-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" value="haVisto" vertex="1">
+          <mxGeometry relative="1" x="0.6" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1-l-31" edge="1" parent="1" source="carlos" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=1;exitY=0.6;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="oppenheimer" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-el-32" connectable="0" parent="e1-l-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" value="deseaVer" vertex="1">
+          <mxGeometry relative="1" x="0.2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rCarlos" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Review: rCarlos" vertex="1">
+          <mxGeometry height="104" width="240" x="-330" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="rCarlos-a0" parent="rCarlos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="puntuacion: 5" vertex="1">
+          <mxGeometry height="26" width="240" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rCarlos-a1" parent="rCarlos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="comentario: &quot;Una obra maestra&quot;" vertex="1">
+          <mxGeometry height="26" width="240" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="rCarlos-a2" parent="rCarlos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="fechaPublicacion: 16/03/2025" vertex="1">
+          <mxGeometry height="26" width="240" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="dCarlos" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Diary: dCarlos" vertex="1">
+          <mxGeometry height="52" width="170" x="230" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="dCarlos-a0" parent="dCarlos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="fechaVisionado: 15/03/2025" vertex="1">
+          <mxGeometry height="26" width="170" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-l-34" edge="1" parent="1" source="rCarlos" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=1;exitY=0.4;exitDx=0;exitDy=0;" target="e1-l-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-l-35" edge="1" parent="1" source="dCarlos" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=0;exitY=0.2;exitDx=0;exitDy=0;" target="e1-l-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-l-36" edge="1" parent="1" source="ana" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.2;exitY=1;exitDx=0;exitDy=0;entryX=0.2;entryY=0;entryDx=0;entryDy=0;" target="barbie" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-el-37" connectable="0" parent="e1-l-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" value="haVisto" vertex="1">
+          <mxGeometry relative="1" x="-0.6" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1-l-38" edge="1" parent="1" source="ana" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="barbie" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-el-39" connectable="0" parent="e1-l-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" value="esFavorita ^" vertex="1">
+          <mxGeometry relative="1" x="-0.2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1-l-41" edge="1" parent="1" source="ana" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.8;exitY=1;exitDx=0;exitDy=0;entryX=0.8;entryY=0;entryDx=0;entryDy=0;" target="barbie" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-el-42" connectable="0" parent="e1-l-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" value="valora" vertex="1">
+          <mxGeometry relative="1" x="0.6" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rAna" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Review: rAna" vertex="1">
+          <mxGeometry height="104" width="240" x="1250" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="rAna-a0" parent="rAna" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="puntuacion: 3.5" vertex="1">
+          <mxGeometry height="26" width="240" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rAna-a1" parent="rAna" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="comentario: &quot;Divertida y original&quot;" vertex="1">
+          <mxGeometry height="26" width="240" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="rAna-a2" parent="rAna" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="fechaPublicacion: 22/07/2025" vertex="1">
+          <mxGeometry height="26" width="240" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="dAna" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Diary: dAna" vertex="1">
+          <mxGeometry height="52" width="170" x="730" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="dAna-a0" parent="dAna" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="fechaVisionado: 21/07/2025" vertex="1">
+          <mxGeometry height="26" width="170" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-l-43" edge="1" parent="1" source="rAna" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="e1-l-41" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-l-44" edge="1" parent="1" source="dAna" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=1;exitY=0.2;exitDx=0;exitDy=0;" target="e1-l-36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1-l-45" edge="1" parent="1" source="ana" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=0.85;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rCarlos" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1121" y="-60" />
+              <mxPoint x="-210" y="-60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1-el-46" connectable="0" parent="e1-l-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" value="gusta" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jud8zLqc4qUIq-OxysLy-1" parent="1" style="text;html=1;align=center;fontSize=11;strokeColor=none;fillColor=none;" value="contiene" vertex="1">
+          <mxGeometry height="20" width="70" x="670" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="jud8zLqc4qUIq-OxysLy-2" parent="1" style="text;html=1;align=center;fontSize=11;strokeColor=none;fillColor=none;" value="contiene" vertex="1">
+          <mxGeometry height="20" width="70" x="290" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="jud8zLqc4qUIq-OxysLy-3" parent="1" style="text;html=1;align=center;fontSize=11;strokeColor=none;fillColor=none;" value="contiene" vertex="1">
+          <mxGeometry height="20" width="70" x="130" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="jud8zLqc4qUIq-OxysLy-4" parent="1" style="text;html=1;align=center;fontSize=11;strokeColor=none;fillColor=none;" value="contiene" vertex="1">
+          <mxGeometry height="20" width="70" x="-90" y="800" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="e2" name="Escenario 2 - Recomendaciones (válido)">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e2-t-1" value="&lt;b&gt;Escenario 2:&lt;/b&gt; cálculo de recomendaciones (R.F.26 / R.N.06) — &lt;font color=&#39;#008000&#39;&gt;&lt;b&gt;VÁLIDO&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="-100" width="900" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="marta" value="Espectador: marta" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="0" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="marta-a0" value="correo: marta.gil@gmail.com" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="marta">
+          <mxGeometry x="0" y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="marta-a1" value="contraseña: Estrellas2025" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="marta">
+          <mxGeometry x="0" y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="marta-a2" value="nombre: Marta Gil" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="marta">
+          <mxGeometry x="0" y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="marta-a3" value="biografía: &quot;Me encanta el cine de autor&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="marta">
+          <mxGeometry x="0" y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="interstellar" value="Película: interstellar" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="0" y="260" width="260" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="interstellar-a0" value="titulo: Interstellar" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="interstellar">
+          <mxGeometry x="0" y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="interstellar-a1" value="póster: posters/interstellar.jpg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="interstellar">
+          <mxGeometry x="0" y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="interstellar-a2" value="sinopsis: &quot;Viaje por un agujero de gusano&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="interstellar">
+          <mxGeometry x="0" y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="interstellar-a3" value="duracion: 169" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="interstellar">
+          <mxGeometry x="0" y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="interstellar-a4" value="fechaEstreno: 07/11/2014" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="interstellar">
+          <mxGeometry x="0" y="130" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="adAstra" value="Película: adAstra" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="260" width="260" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="adAstra-a0" value="titulo: Ad Astra" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="adAstra">
+          <mxGeometry x="0" y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="adAstra-a1" value="póster: posters/ad-astra.jpg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="adAstra">
+          <mxGeometry x="0" y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="adAstra-a2" value="sinopsis: &quot;Un astronauta busca a su padre&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="adAstra">
+          <mxGeometry x="0" y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="adAstra-a3" value="duracion: 123" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="adAstra">
+          <mxGeometry x="0" y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="adAstra-a4" value="fechaEstreno: 20/09/2019" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="adAstra">
+          <mxGeometry x="0" y="130" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gray" value="Director: gray" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="260" width="260" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="gray-a0" value="nombre: James" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="gray">
+          <mxGeometry x="0" y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gray-a1" value="apellidos: Gray" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="gray">
+          <mxGeometry x="0" y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gray-a2" value="foto: fotos/gray.jpg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="gray">
+          <mxGeometry x="0" y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gray-a3" value="biografía: &quot;Cineasta estadounidense&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="gray">
+          <mxGeometry x="0" y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gray-a4" value="fechaNacimiento: 14/04/1969" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="gray">
+          <mxGeometry x="0" y="130" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nolan" value="Director: nolan" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="640" width="260" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="nolan-a0" value="nombre: Christopher" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nolan">
+          <mxGeometry x="0" y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nolan-a1" value="apellidos: Nolan" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nolan">
+          <mxGeometry x="0" y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nolan-a2" value="foto: fotos/nolan.jpg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nolan">
+          <mxGeometry x="0" y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nolan-a3" value="biografía: &quot;Cineasta británico&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nolan">
+          <mxGeometry x="0" y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nolan-a4" value="fechaNacimiento: 30/07/1970" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nolan">
+          <mxGeometry x="0" y="130" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-2" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="marta" target="interstellar">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-el-3" value="esFavorita" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" vertex="1" connectable="0" parent="e2-l-2">
+          <mxGeometry x="0" relative="1" as="geometry">
+            <mxPoint x="0" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2-el-4" value="favoritas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=10;" vertex="1" connectable="0" parent="e2-l-2">
+          <mxGeometry x="0.85" relative="1" as="geometry">
+            <mxPoint x="30" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cienciaFiccion" value="Label: cienciaFiccion" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="210" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="cienciaFiccion-a0" value="nombre: Ciencia ficción" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="cienciaFiccion">
+          <mxGeometry x="0" y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-5" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=1;exitY=0.08;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="interstellar" target="cienciaFiccion">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-6" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0;exitY=0.08;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="adAstra" target="cienciaFiccion">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aventura" value="Label: aventura" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="276" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="aventura-a0" value="nombre: Aventura" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="aventura">
+          <mxGeometry x="0" y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-7" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=1;exitY=0.2;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="interstellar" target="aventura">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-8" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0;exitY=0.2;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="adAstra" target="aventura">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="espacio" value="Label: espacio" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="342" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="espacio-a0" value="nombre: Espacio" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="espacio">
+          <mxGeometry x="0" y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-9" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=1;exitY=0.32;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="interstellar" target="espacio">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-10" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0;exitY=0.32;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="adAstra" target="espacio">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="astronautas" value="Label: astronautas" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="408" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="astronautas-a0" value="nombre: Astronautas" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="astronautas">
+          <mxGeometry x="0" y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-11" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=1;exitY=0.44;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="interstellar" target="astronautas">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-12" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0;exitY=0.44;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="adAstra" target="astronautas">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="padresHijos" value="Label: padresHijos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="474" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="padresHijos-a0" value="nombre: Padres e hijos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="padresHijos">
+          <mxGeometry x="0" y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-13" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=1;exitY=0.56;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="interstellar" target="padresHijos">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-14" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0;exitY=0.56;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="adAstra" target="padresHijos">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="supervivencia" value="Label: supervivencia" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="540" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="supervivencia-a0" value="nombre: Supervivencia" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="supervivencia">
+          <mxGeometry x="0" y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-15" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=1;exitY=0.68;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="interstellar" target="supervivencia">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-16" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0;exitY=0.68;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="adAstra" target="supervivencia">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="drama" value="Label: drama" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="606" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="drama-a0" value="nombre: Drama" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="drama">
+          <mxGeometry x="0" y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-17" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=1;exitY=0.8;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="interstellar" target="drama">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-18" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0;exitY=0.8;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="adAstra" target="drama">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ingles" value="Label: ingles" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="672" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="ingles-a0" value="nombre: Inglés" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ingles">
+          <mxGeometry x="0" y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-19" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=1;exitY=0.92;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="interstellar" target="ingles">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-20" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0;exitY=0.92;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="adAstra" target="ingles">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-c1" value="contiene (×8)" style="text;html=1;align=center;fontSize=11;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="225" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-c2" value="contiene (×8)" style="text;html=1;align=center;fontSize=11;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="225" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oppenheimer" value="Película: oppenheimer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1020" width="260" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="oppenheimer-a0" value="titulo: Oppenheimer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="oppenheimer">
+          <mxGeometry x="0" y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oppenheimer-a1" value="póster: posters/oppenheimer.jpg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="oppenheimer">
+          <mxGeometry x="0" y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oppenheimer-a2" value="sinopsis: &quot;Vida del físico J. R. Oppenheimer&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="oppenheimer">
+          <mxGeometry x="0" y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oppenheimer-a3" value="duracion: 180" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="oppenheimer">
+          <mxGeometry x="0" y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oppenheimer-a4" value="fechaEstreno: 21/07/2023" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="oppenheimer">
+          <mxGeometry x="0" y="130" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="barbie" value="Película: barbie" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1020" width="260" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="barbie-a0" value="titulo: Barbie" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="barbie">
+          <mxGeometry x="0" y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="barbie-a1" value="póster: posters/barbie.jpg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="barbie">
+          <mxGeometry x="0" y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="barbie-a2" value="sinopsis: &quot;Barbie descubre el mundo real&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="barbie">
+          <mxGeometry x="0" y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="barbie-a3" value="duracion: 114" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="barbie">
+          <mxGeometry x="0" y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="barbie-a4" value="fechaEstreno: 21/07/2023" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="barbie">
+          <mxGeometry x="0" y="130" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="amelie" value="Película: amelie" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1020" width="260" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="amelie-a0" value="titulo: Amélie" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="amelie">
+          <mxGeometry x="0" y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="amelie-a1" value="póster: posters/amelie.jpg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="amelie">
+          <mxGeometry x="0" y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="amelie-a2" value="sinopsis: &quot;Una camarera de Montmartre&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="amelie">
+          <mxGeometry x="0" y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="amelie-a3" value="duracion: 122" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="amelie">
+          <mxGeometry x="0" y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="amelie-a4" value="fechaEstreno: 25/04/2001" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="amelie">
+          <mxGeometry x="0" y="130" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gerwig" value="Director: gerwig" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="700" width="260" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="gerwig-a0" value="nombre: Greta" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="gerwig">
+          <mxGeometry x="0" y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gerwig-a1" value="apellidos: Gerwig" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="gerwig">
+          <mxGeometry x="0" y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gerwig-a2" value="foto: fotos/gerwig.jpg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="gerwig">
+          <mxGeometry x="0" y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gerwig-a3" value="biografía: &quot;Cineasta estadounidense&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="gerwig">
+          <mxGeometry x="0" y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gerwig-a4" value="fechaNacimiento: 04/08/1983" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="gerwig">
+          <mxGeometry x="0" y="130" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jeunet" value="Director: jeunet" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="1020" width="260" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="jeunet-a0" value="nombre: Jean-Pierre" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jeunet">
+          <mxGeometry x="0" y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jeunet-a1" value="apellidos: Jeunet" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jeunet">
+          <mxGeometry x="0" y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jeunet-a2" value="foto: fotos/jeunet.jpg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jeunet">
+          <mxGeometry x="0" y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jeunet-a3" value="biografía: &quot;Cineasta francés&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jeunet">
+          <mxGeometry x="0" y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jeunet-a4" value="fechaNacimiento: 03/09/1953" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jeunet">
+          <mxGeometry x="0" y="130" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-21" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gray" target="adAstra">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-el-22" value="dirige" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" vertex="1" connectable="0" parent="e2-l-21">
+          <mxGeometry x="0" relative="1" as="geometry">
+            <mxPoint x="0" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2-l-23" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" edge="1" parent="1" source="nolan" target="interstellar">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-el-24" value="dirige" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" vertex="1" connectable="0" parent="e2-l-23">
+          <mxGeometry x="0" relative="1" as="geometry">
+            <mxPoint x="0" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2-l-25" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=1;exitY=0.6;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nolan" target="oppenheimer">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-el-26" value="dirige" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" vertex="1" connectable="0" parent="e2-l-25">
+          <mxGeometry x="0" relative="1" as="geometry">
+            <mxPoint x="0" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2-l-27" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gerwig" target="barbie">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-el-28" value="dirige" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" vertex="1" connectable="0" parent="e2-l-27">
+          <mxGeometry x="0" relative="1" as="geometry">
+            <mxPoint x="0" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2-l-29" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jeunet" target="amelie">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-el-30" value="dirige" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" vertex="1" connectable="0" parent="e2-l-29">
+          <mxGeometry x="0" relative="1" as="geometry">
+            <mxPoint x="0" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="biografia" value="Label: biografia" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1300" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="biografia-a0" value="nombre: Biografía" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="biografia">
+          <mxGeometry x="0" y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="historia" value="Label: historia" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1300" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="historia-a0" value="nombre: Historia" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="historia">
+          <mxGeometry x="0" y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fantasia" value="Label: fantasia" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1300" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="fantasia-a0" value="nombre: Fantasía" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="fantasia">
+          <mxGeometry x="0" y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="comedia" value="Label: comedia" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1300" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="comedia-a0" value="nombre: Comedia" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="comedia">
+          <mxGeometry x="0" y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="romance" value="Label: romance" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1300" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="romance-a0" value="nombre: Romance" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="romance">
+          <mxGeometry x="0" y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="frances" value="Label: frances" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="1300" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="frances-a0" value="nombre: Francés" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="frances">
+          <mxGeometry x="0" y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-31" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oppenheimer" target="ingles">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-el-32" value="contiene" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" vertex="1" connectable="0" parent="e2-l-31">
+          <mxGeometry x="0" relative="1" as="geometry">
+            <mxPoint x="0" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2-l-33" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.2;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oppenheimer" target="biografia">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-34" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.8;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oppenheimer" target="historia">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-35" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.05;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.8;entryDx=0;entryDy=0;" edge="1" parent="1" source="barbie" target="ingles">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-el-36" value="contiene" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" vertex="1" connectable="0" parent="e2-l-35">
+          <mxGeometry x="0" relative="1" as="geometry">
+            <mxPoint x="0" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2-l-37" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.2;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="barbie" target="fantasia">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-38" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.8;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="barbie" target="comedia">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-39" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.15;exitY=1;exitDx=0;exitDy=0;entryX=0.7;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="amelie" target="comedia">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-40" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="amelie" target="romance">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-41" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.85;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="amelie" target="frances">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-c3" value="contiene" style="text;html=1;align=center;fontSize=11;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="1220" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-n-42" value="&lt;b&gt;Recomendaciones para marta&lt;/b&gt; (favoritas = {interstellar}):&lt;br&gt;• adAstra: 0 (otro director) + 8 labels × 2 = &lt;b&gt;16&lt;/b&gt;&lt;br&gt;• oppenheimer: 10 (mismo director) + 1 label × 2 = &lt;b&gt;12&lt;/b&gt;&lt;br&gt;• barbie: 0 (otra directora) + 1 label × 2 = &lt;b&gt;2&lt;/b&gt;&lt;br&gt;• amelie: 0 + 0 labels = &lt;b&gt;0&lt;/b&gt;&lt;br&gt;Orden mostrado: Ad Astra, Oppenheimer, Barbie, Amélie" style="shape=note;size=15;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;spacingTop=4;" vertex="1" parent="1">
+          <mxGeometry x="760" y="0" width="380" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="e2-l-43" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e2-n-42" target="marta">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="e3" name="Escenario 3 - Usuarios y reviews (inválido)">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e3-t-1" value="&lt;b&gt;Escenario 3:&lt;/b&gt; restricciones de espectadores y reviews — &lt;font color=&#39;#CC0000&#39;&gt;&lt;b&gt;INVÁLIDO&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="-200" width="900" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="carlos" value="Espectador: carlos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="0" y="0" width="260" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="carlos-a0" value="correo: carlos.ruiz@gmail.com" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="carlos">
+          <mxGeometry x="0" y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="carlos-a1" value="contraseña: abc12" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#CC0000;fontStyle=1;" vertex="1" parent="carlos">
+          <mxGeometry x="0" y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="carlos-a2" value="nombre: Carlos Ruiz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="carlos">
+          <mxGeometry x="0" y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ana" value="Espectador: ana" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="0" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ana-a0" value="correo: ana.lopez@gmail.com" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ana">
+          <mxGeometry x="0" y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ana-a1" value="contraseña: Palomitas#9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ana">
+          <mxGeometry x="0" y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ana-a2" value="nombre: Ana López" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ana">
+          <mxGeometry x="0" y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ana-a3" value="biografía: &quot;Cinéfila de fin de semana&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ana">
+          <mxGeometry x="0" y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="barbie" value="Película: barbie" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="520" width="260" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="barbie-a0" value="titulo: Barbie" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="barbie">
+          <mxGeometry x="0" y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="barbie-a1" value="póster: posters/barbie.jpg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="barbie">
+          <mxGeometry x="0" y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="barbie-a2" value="sinopsis: &quot;Barbie descubre el mundo real&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="barbie">
+          <mxGeometry x="0" y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="barbie-a3" value="duracion: 114" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="barbie">
+          <mxGeometry x="0" y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="barbie-a4" value="fechaEstreno: 21/07/2023" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="barbie">
+          <mxGeometry x="0" y="130" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gerwig" value="Director: gerwig" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="520" width="260" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="gerwig-a0" value="nombre: Greta" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="gerwig">
+          <mxGeometry x="0" y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gerwig-a1" value="apellidos: Gerwig" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="gerwig">
+          <mxGeometry x="0" y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gerwig-a2" value="foto: fotos/gerwig.jpg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="gerwig">
+          <mxGeometry x="0" y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gerwig-a3" value="biografía: &quot;Cineasta estadounidense&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="gerwig">
+          <mxGeometry x="0" y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gerwig-a4" value="fechaNacimiento: 04/08/1983" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="gerwig">
+          <mxGeometry x="0" y="130" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="comedia" value="Label: comedia" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="800" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="comedia-a0" value="nombre: Comedia" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="comedia">
+          <mxGeometry x="0" y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ingles" value="Label: ingles" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="800" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="ingles-a0" value="nombre: Inglés" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ingles">
+          <mxGeometry x="0" y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-l-2" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gerwig" target="barbie">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-el-3" value="dirige" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" vertex="1" connectable="0" parent="e3-l-2">
+          <mxGeometry x="0" relative="1" as="geometry">
+            <mxPoint x="0" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3-l-4" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="barbie" target="comedia">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-el-5" value="contiene" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" vertex="1" connectable="0" parent="e3-l-4">
+          <mxGeometry x="0" relative="1" as="geometry">
+            <mxPoint x="0" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3-l-6" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="barbie" target="ingles">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-l-7" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;strokeColor=#CC0000;fontColor=#CC0000;strokeWidth=2;exitX=0.2;exitY=0;exitDx=0;exitDy=0;entryX=0.6;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="carlos" target="carlos">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="52" y="-50" />
+              <mxPoint x="156" y="-50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3-el-8" value="sigue" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;fontColor=#CC0000;fontStyle=1;" vertex="1" connectable="0" parent="e3-l-7">
+          <mxGeometry x="0" relative="1" as="geometry">
+            <mxPoint x="0" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3-el-9" value="seguidor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=10;fontColor=#CC0000;fontStyle=1;" vertex="1" connectable="0" parent="e3-l-7">
+          <mxGeometry x="-0.85" relative="1" as="geometry">
+            <mxPoint x="-28" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3-el-10" value="seguido" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=10;fontColor=#CC0000;fontStyle=1;" vertex="1" connectable="0" parent="e3-l-7">
+          <mxGeometry x="0.85" relative="1" as="geometry">
+            <mxPoint x="28" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3-l-11" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.3;entryDx=0;entryDy=0;" edge="1" parent="1" source="ana" target="carlos">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-el-12" value="sigue" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" vertex="1" connectable="0" parent="e3-l-11">
+          <mxGeometry x="0" relative="1" as="geometry">
+            <mxPoint x="0" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3-el-13" value="seguidor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=10;" vertex="1" connectable="0" parent="e3-l-11">
+          <mxGeometry x="-0.85" relative="1" as="geometry">
+            <mxPoint x="0" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3-el-14" value="seguido" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=10;" vertex="1" connectable="0" parent="e3-l-11">
+          <mxGeometry x="0.85" relative="1" as="geometry">
+            <mxPoint x="0" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3-l-15" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;strokeColor=#CC0000;fontColor=#CC0000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.2;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="carlos" target="barbie">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-el-16" value="valora" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;fontColor=#CC0000;fontStyle=1;" vertex="1" connectable="0" parent="e3-l-15">
+          <mxGeometry x="0.3" relative="1" as="geometry">
+            <mxPoint x="0" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rCarlos" value="Review: rCarlos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#CC0000;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="320" width="270" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="rCarlos-a0" value="puntuacion: 6" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#CC0000;fontStyle=1;" vertex="1" parent="rCarlos">
+          <mxGeometry x="0" y="26" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rCarlos-a1" value="comentario: &quot;La mejor del año&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rCarlos">
+          <mxGeometry x="0" y="52" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rCarlos-a2" value="fechaPublicacion: 25/07/2025" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rCarlos">
+          <mxGeometry x="0" y="78" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-l-17" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rCarlos" target="e3-l-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-l-18" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.3;exitY=1;exitDx=0;exitDy=0;entryX=0.8;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ana" target="barbie">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-el-19" value="valora" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" vertex="1" connectable="0" parent="e3-l-18">
+          <mxGeometry x="-0.3" relative="1" as="geometry">
+            <mxPoint x="0" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3-l-20" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.6;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.2;entryDx=0;entryDy=0;" edge="1" parent="1" source="ana" target="barbie">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-el-21" value="haVisto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" vertex="1" connectable="0" parent="e3-l-20">
+          <mxGeometry x="-0.3" relative="1" as="geometry">
+            <mxPoint x="0" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rAna" value="Review: rAna" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="220" width="230" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="rAna-a0" value="puntuacion: 4" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rAna">
+          <mxGeometry x="0" y="26" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rAna-a1" value="comentario: &quot;Muy divertida&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rAna">
+          <mxGeometry x="0" y="52" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rAna-a2" value="fechaPublicacion: 22/07/2025" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rAna">
+          <mxGeometry x="0" y="78" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dAna" value="Diary: dAna" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="380" width="190" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="dAna-a0" value="fechaVisionado: 21/07/2025" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="dAna">
+          <mxGeometry x="0" y="26" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-l-22" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rAna" target="e3-l-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-l-23" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=0;exitY=0.3;exitDx=0;exitDy=0;" edge="1" parent="1" source="dAna" target="e3-l-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-l-24" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;strokeColor=#CC0000;fontColor=#CC0000;strokeWidth=2;exitX=1;exitY=0.62;exitDx=0;exitDy=0;entryX=0;entryY=0.3;entryDx=0;entryDy=0;" edge="1" parent="1" source="carlos" target="rAna">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-el-25" value="gusta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;fontColor=#CC0000;fontStyle=1;" vertex="1" connectable="0" parent="e3-l-24">
+          <mxGeometry x="-0.1" relative="1" as="geometry">
+            <mxPoint x="0" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3-l-26" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;strokeColor=#CC0000;fontColor=#CC0000;strokeWidth=2;exitX=1;exitY=0.85;exitDx=0;exitDy=0;entryX=0;entryY=0.55;entryDx=0;entryDy=0;" edge="1" parent="1" source="carlos" target="rAna">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-el-27" value="gusta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;fontColor=#CC0000;fontStyle=1;" vertex="1" connectable="0" parent="e3-l-26">
+          <mxGeometry x="0.1" relative="1" as="geometry">
+            <mxPoint x="0" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3-n-28" value="&lt;b&gt;✗ Restricción de contraseña:&lt;/b&gt; &#39;abc12&#39; tiene menos de 8 caracteres" style="shape=note;size=15;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;spacingTop=4;strokeColor=#CC0000;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="30" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-l-29" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e3-n-28" target="carlos-a1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-n-30" value="&lt;b&gt;✗ R.N.01:&lt;/b&gt; carlos se sigue a sí mismo" style="shape=note;size=15;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;spacingTop=4;strokeColor=#CC0000;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-150" width="220" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-l-31" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="e3-n-30" target="e3-l-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-n-32" value="&lt;b&gt;✗ R.N.02:&lt;/b&gt; la puntuación 6 está fuera del rango [0.5, 5]" style="shape=note;size=15;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;spacingTop=4;strokeColor=#CC0000;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="320" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-l-33" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e3-n-32" target="rCarlos-a0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-n-34" value="&lt;b&gt;✗ R.N.04:&lt;/b&gt; carlos tiene una Review de barbie (valora) pero barbie no está en su Diary (no existe enlace haVisto)" style="shape=note;size=15;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;spacingTop=4;strokeColor=#CC0000;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="470" width="270" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-l-35" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="e3-n-34" target="rCarlos">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-n-36" value="&lt;b&gt;✗ R.N.03:&lt;/b&gt; carlos tiene dos enlaces &lt;i&gt;gusta&lt;/i&gt; con la misma review (rAna)" style="shape=note;size=15;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;spacingTop=4;strokeColor=#CC0000;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="70" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e3-l-37" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=0;exitY=0.8;exitDx=0;exitDy=0;" edge="1" parent="1" source="e3-n-36" target="e3-l-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="e4" name="Escenario 4 - Películas (inválido)">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e4-t-1" value="&lt;b&gt;Escenario 4:&lt;/b&gt; restricciones de películas, directores y labels — &lt;font color=&#39;#CC0000&#39;&gt;&lt;b&gt;INVÁLIDO&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-100" width="900" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="interstellar" value="Película: interstellar" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#CC0000;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="380" y="0" width="260" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="interstellar-a0" value="titulo: Interstellar" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="interstellar">
+          <mxGeometry x="0" y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="interstellar-a1" value="póster: posters/interstellar.jpg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="interstellar">
+          <mxGeometry x="0" y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="interstellar-a2" value="sinopsis: &quot;Viaje por un agujero de gusano&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="interstellar">
+          <mxGeometry x="0" y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="interstellar-a3" value="duracion: 169" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="interstellar">
+          <mxGeometry x="0" y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="interstellar-a4" value="fechaEstreno: 07/11/2014" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="interstellar">
+          <mxGeometry x="0" y="130" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nolan" value="Director: nolan" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="0" width="260" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="nolan-a0" value="nombre: Christopher" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nolan">
+          <mxGeometry x="0" y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nolan-a1" value="apellidos: Nolan" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nolan">
+          <mxGeometry x="0" y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nolan-a2" value="foto: fotos/nolan.jpg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nolan">
+          <mxGeometry x="0" y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nolan-a3" value="biografía: &quot;Cineasta británico&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nolan">
+          <mxGeometry x="0" y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nolan-a4" value="fechaNacimiento: 30/07/1970" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="nolan">
+          <mxGeometry x="0" y="130" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-l-2" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nolan" target="interstellar">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-el-3" value="dirige" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" vertex="1" connectable="0" parent="e4-l-2">
+          <mxGeometry x="0" relative="1" as="geometry">
+            <mxPoint x="0" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cienciaFiccion" value="Label: cienciaFiccion" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="300" width="155" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="cienciaFiccion-a0" value="nombre: Ciencia ficción" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="cienciaFiccion">
+          <mxGeometry x="0" y="26" width="155" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-l-4" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="interstellar" target="cienciaFiccion">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="drama" value="Label: drama" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="300" width="155" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="drama-a0" value="nombre: Drama" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="drama">
+          <mxGeometry x="0" y="26" width="155" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-l-5" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.2;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="interstellar" target="drama">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aventura" value="Label: aventura" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="300" width="155" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="aventura-a0" value="nombre: Aventura" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="aventura">
+          <mxGeometry x="0" y="26" width="155" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-l-6" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.3;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="interstellar" target="aventura">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="espacio" value="Label: espacio" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="300" width="155" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="espacio-a0" value="nombre: Espacio" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="espacio">
+          <mxGeometry x="0" y="26" width="155" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-l-7" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.4;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="interstellar" target="espacio">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="astronautas" value="Label: astronautas" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="155" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="astronautas-a0" value="nombre: Astronautas" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="astronautas">
+          <mxGeometry x="0" y="26" width="155" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-l-8" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="interstellar" target="astronautas">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="padresHijos" value="Label: padresHijos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="300" width="155" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="padresHijos-a0" value="nombre: Padres e hijos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="padresHijos">
+          <mxGeometry x="0" y="26" width="155" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-l-9" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.6;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="interstellar" target="padresHijos">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="supervivencia" value="Label: supervivencia" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="300" width="155" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="supervivencia-a0" value="nombre: Supervivencia" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="supervivencia">
+          <mxGeometry x="0" y="26" width="155" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-l-10" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.7;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="interstellar" target="supervivencia">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ingles" value="Label: ingles" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="895" y="300" width="155" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="ingles-a0" value="nombre: Inglés" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ingles">
+          <mxGeometry x="0" y="26" width="155" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-l-11" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.8;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="interstellar" target="ingles">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="viajesTiempo" value="Label: viajesTiempo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#CC0000;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="300" width="185" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="viajesTiempo-a0" value="nombre: Viajes en el tiempo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="viajesTiempo">
+          <mxGeometry x="0" y="26" width="185" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-l-12" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;strokeColor=#CC0000;fontColor=#CC0000;strokeWidth=2;exitX=0.9;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="interstellar" target="viajesTiempo">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-cont" value="contiene (×9)" style="text;html=1;align=center;fontSize=11;strokeColor=none;fillColor=none;fontColor=#CC0000;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="235" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-n-13" value="&lt;b&gt;✗ R.N.05 / multiplicidad 1..8 de &lt;i&gt;contiene&lt;/i&gt;:&lt;/b&gt; interstellar está enlazada con 9 labels (viajesTiempo sobra)" style="shape=note;size=15;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;spacingTop=4;strokeColor=#CC0000;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="720" y="30" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-l-14" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e4-n-13" target="interstellar">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oppenheimer" value="Película: oppenheimer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#CC0000;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="520" width="260" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="oppenheimer-a0" value="titulo: Oppenheimer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="oppenheimer">
+          <mxGeometry x="0" y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oppenheimer-a1" value="póster: posters/oppenheimer.jpg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="oppenheimer">
+          <mxGeometry x="0" y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oppenheimer-a2" value="sinopsis: &quot;Vida del físico J. R. Oppenheimer&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="oppenheimer">
+          <mxGeometry x="0" y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oppenheimer-a3" value="duracion: 180" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="oppenheimer">
+          <mxGeometry x="0" y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oppenheimer-a4" value="fechaEstreno: 21/07/2023" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="oppenheimer">
+          <mxGeometry x="0" y="130" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="biografia" value="Label: biografia" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="800" width="150" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="biografia-a0" value="nombre: Biografía" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="biografia">
+          <mxGeometry x="0" y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-l-15" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oppenheimer" target="biografia">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-el-16" value="contiene" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" vertex="1" connectable="0" parent="e4-l-15">
+          <mxGeometry x="0" relative="1" as="geometry">
+            <mxPoint x="0" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e4-n-17" value="&lt;b&gt;✗ Multiplicidad 1 de &lt;i&gt;dirige&lt;/i&gt;:&lt;/b&gt; oppenheimer no está enlazada con ningún director" style="shape=note;size=15;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;spacingTop=4;strokeColor=#CC0000;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="560" width="240" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-l-18" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3;entryDx=0;entryDy=0;" edge="1" parent="1" source="e4-n-17" target="oppenheimer">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="amelie" value="Película: amelie" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#CC0000;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="260" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="amelie-a0" value="titulo: Amélie" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="amelie">
+          <mxGeometry x="0" y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="amelie-a1" value="póster: posters/amelie.jpg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="amelie">
+          <mxGeometry x="0" y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="amelie-a2" value="sinopsis: &quot;Una camarera de Montmartre&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="amelie">
+          <mxGeometry x="0" y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="amelie-a3" value="duracion: 122" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="amelie">
+          <mxGeometry x="0" y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="amelie-a4" value="fechaEstreno: 25/04/2001" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="amelie">
+          <mxGeometry x="0" y="130" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jeunet" value="Director: jeunet" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="520" width="260" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="jeunet-a0" value="nombre: Jean-Pierre" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jeunet">
+          <mxGeometry x="0" y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jeunet-a1" value="apellidos: Jeunet" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jeunet">
+          <mxGeometry x="0" y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jeunet-a2" value="foto: fotos/jeunet.jpg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jeunet">
+          <mxGeometry x="0" y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jeunet-a3" value="biografía: &quot;Cineasta francés&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jeunet">
+          <mxGeometry x="0" y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jeunet-a4" value="fechaNacimiento: 03/09/1953" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jeunet">
+          <mxGeometry x="0" y="130" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-l-19" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jeunet" target="amelie">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-el-20" value="dirige" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=11;" vertex="1" connectable="0" parent="e4-l-19">
+          <mxGeometry x="0" relative="1" as="geometry">
+            <mxPoint x="0" y="0" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e4-n-21" value="&lt;b&gt;✗ Multiplicidad 1..8 de &lt;i&gt;contiene&lt;/i&gt;:&lt;/b&gt; amelie no tiene ningún label (ni siquiera su idioma original)" style="shape=note;size=15;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;spacingTop=4;strokeColor=#CC0000;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="740" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="e4-l-22" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="e4-n-21" target="amelie">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
