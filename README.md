@@ -737,6 +737,8 @@ Los datos se guardarán en la nube para ser accesibles con facilidad desde disti
 | RN-4  |         |               |            |          |          |       | X      | X     |
 | RN-5  |         |               |            | X        |          | X     |        |       |
 | RN-6  |         |               |            | X        | X        | X     |        |       |
+
+
 -- fin entregable 2 --
 
 ## 7. Modelo relacional en 3FN
