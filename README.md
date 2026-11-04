@@ -689,7 +689,7 @@ Los datos se guardarán en la nube para ser accesibles con facilidad desde disti
 
 ### 5.1. Diagramas de clases UML
 
-- con restricciones.
+![Modelo conceptual](ModeladoProyecto.drawio.svg)
 
 ### 5.2. Escenarios de prueba
 
