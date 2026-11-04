@@ -699,16 +699,44 @@ Los datos se guardarán en la nube para ser accesibles con facilidad desde disti
 
 - Matriz de trazabilidad entre los elementos del modelo conceptual y los requisitos.
 
-|       | EntidadX   | AsociaciónX  | RestricciónX  | Entidad2 ...   | 
-|:------|:-----------|:-----------|:-----------|:-----------|
-| RI-1  | X          | X          | X          | X          |
-| RI-2  |            | X          |            | X          |
-| RF-1  |            | X          |            | X          |
-| RF-2  | X          |            | X          | X          |
-| RN-1  |            | X          |            |            |
-| RN-2  | X          | X          | X          |            |
-| ...   |            |            |            |            |
-
+|       | Usuario | Administrador | Espectador | Película | Director | Label | Review | Diary |
+|:------|:--------|:--------------|:-----------|:---------|:---------|:------|:-------|:------|
+| RI-1  | X       | X             | X          |          |          |       |        | X     |
+| RI-2  |         |               |            | X        | X        | X     |        |       |
+| RI-3  |         |               |            | X        | X        |       |        |       |
+| RI-4  |         |               | X          | X        |          |       | X      |       |
+| RF-1  |         | X             |            | X        |          |       |        |       |
+| RF-2  |         | X             |            | X        |          |       |        |       |
+| RF-3  |         | X             |            | X        |          |       |        |       |
+| RF-4  |         |               | X          | X        |          |       | X      |       |
+| RF-5  |         | X             |            |          | X        |       |        |       |
+| RF-6  |         | X             |            |          | X        |       |        |       |
+| RF-7  |         | X             |            |          | X        |       |        |       |
+| RF-8  | X       |               |            | X        | X        |       |        |       |
+| RF-9  |         | X             |            | X        | X        |       |        |       |
+| RF-10 | X       |               | X          |          |          |       |        |       |
+| RF-11 | X       |               | X          |          |          |       |        |       |
+| RF-12 | X       |               | X          |          |          |       |        |       |
+| RF-13 | X       |               | X          |          |          |       |        | X     |
+| RF-14 |         |               | X          |          |          |       |        |       |
+| RF-15 |         |               | X          |          |          |       |        |       |
+| RF-16 |         |               | X          | X        |          |       | X      | X     |
+| RF-17 |         |               |            |          |          |       | X      |       |
+| RF-18 |         |               | X          |          |          |       | X      |       |
+| RF-19 |         |               | X          |          |          |       | X      |       |
+| RF-20 |         |               | X          | X        |          |       |        |       |
+| RF-21 |         |               | X          | X        |          |       |        |       |
+| RF-22 |         |               | X          | X        |          |       |        |       |
+| RF-23 |         |               | X          | X        |          |       |        |       |
+| RF-24 |         |               | X          | X        |          |       |        | X     |
+| RF-25 |         |               | X          | X        |          |       |        | X     |
+| RF-26 |         |               | X          | X        | X        | X     |        |       |
+| RN-1  |         |               | X          |          |          |       |        |       |
+| RN-2  |         |               |            |          |          |       | X      |       |
+| RN-3  |         |               | X          |          |          |       | X      |       |
+| RN-4  |         |               |            |          |          |       | X      | X     |
+| RN-5  |         |               |            | X        |          | X     |        |       |
+| RN-6  |         |               |            | X        | X        | X     |        |       |
 -- fin entregable 2 --
 
 ## 7. Modelo relacional en 3FN
