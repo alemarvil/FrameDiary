@@ -693,7 +693,7 @@ Los datos se guardarán en la nube para ser accesibles con facilidad desde disti
 
 ### 5.2. Escenarios de prueba
 
-- con descripción textual y diagrama de objetos UML.
+![Escenarios de Prueba](Escenarios_de_prueba_proyecto.drawio.svg)
 
 ## 6. Matrices de trazabilidad
 
